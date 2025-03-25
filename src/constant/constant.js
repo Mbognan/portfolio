@@ -9,26 +9,33 @@ Currently, I am dedicated to mastering React, aiming to refine my expertise in m
 My expertise spans back-end development using Laravel, PHP, Shopify, and WordPress, along with front-end technologies like HTML, CSS, JavaScript, and jQuery. While my primary focus has been back-end development, I am now honing my front-end skills with React and TypeScript to become a more versatile full-stack developer.  
 I thrive in dynamic environments where I can create scalable, high-performance web solutions. Constantly learning and adapting, I am dedicated to building efficient, innovative applications that drive business growth and enhance user experiences.`;
 
-
-export const Experience = [
+export const EXPERIENCE = [
     {
         year: "2025 - Present",
         role: "Jr. Developer",
         company: "Blue Wolf Solutions",
-        description: ``,
-        technologies: ["Shopify", "Wordpress" , "React", "Laravel", "Jquery", "Ajax","Axios","PHP"],
+        description: `Responsible for developing and maintaining web applications using modern frameworks. Collaborate with designers and backend developers to create seamless user experiences. Optimize applications for speed and scalability.`,
+        technologies: ["Shopify", "Wordpress", "React", "Laravel", "Jquery", "Ajax", "Axios", "PHP"],
     },
     {
-        year: "2024-2025 (December - March)",
+        year: "2024-2025",
         role: "Jr. Frontend Developer",
         company: "Lodong Kr. Inc.",
-        description: ``,
-        technologies: ["HTML","Css","JavaScript","React","TypeScript","Axios"]
-    },{
-        year: "2023-2024 (January -December",
+        description: `Designed and implemented UI components using React and TypeScript. Worked closely with backend teams to integrate APIs and ensure smooth data flow. Improved website responsiveness and performance.`,
+        technologies: ["HTML", "CSS", "JavaScript", "React", "TypeScript", "Axios", "Jquery", "Ajax"]
+    },
+    {
+        year: "2023-2024",
+        role: "Internship",
+        company: "Marime Education Department",
+        description: `Assisted in developing web applications using Laravel and Vue.js. Implemented UI features and optimized database queries. Gained hands-on experience in backend development and API integration.`,
+        technologies: ["Laravel", "Vue.js", "HTML", "Tailwind", "PHP", "CSS"]
+    },
+    {
+        year: "2023-2024",
         role: "Fullstack Web Developer",
         company: "Freelancer",
-        description: ``,
-        technologies: ["Laravel","Blade","Ajax","Jquery","Postman","PHP"]
+        description: `Developed custom web applications for clients using Laravel and Blade. Built interactive UI components and managed API integrations. Ensured project delivery within deadlines while maintaining high-quality code.`,
+        technologies: ["Laravel", "Blade", "Ajax", "Jquery", "Postman", "PHP"]
     }
-]
+];
